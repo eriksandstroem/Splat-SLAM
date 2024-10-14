@@ -4,6 +4,7 @@ Implementation of the paper [Splat-SLAM: Globally Optimized RGB-only SLAM with 3
 
 ---
 
-We are working diligently to provide the open source code as soon as possible. Please send an email to esandstroem@ee.ethz.ch if you seek more detailed information on the release.
+UPDATE: The code is now publicly available at: https://github.com/google-research/Splat-SLAM
 
-UPDATE: We will release the source code within the next 2 weeks!
+Feel free to check it out!
+
